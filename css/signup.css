@@ -1,0 +1,18 @@
+body{
+    background-color:#f6f8ff;
+    height: 1050px;
+}
+
+.muted{
+    font-size: 17px;
+}
+
+
+@media only screen and (max-width:576px){
+    .h-muted{
+        text-align: center;
+    }
+    .muted{
+        text-align: center;
+    }
+}

@@ -1,0 +1,24 @@
+body{
+    background-color:#f6f8ff;
+    height: 750px; 
+}
+
+img{
+    border-radius: 15px;
+}
+
+
+@media only screen and (max-width:576px){
+    .h-muted{
+        text-align: center;
+    }
+    .muted{
+        text-align: center;
+    }
+    a{
+        display: block;
+        margin-left: -15px;
+    }
+}
+
+
